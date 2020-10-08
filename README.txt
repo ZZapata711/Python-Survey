@@ -1,7 +1,6 @@
 This program executes a randomized response survey based on the Imporved Warner's Randomized Response technique which was discussed in my thesis.
 
-Suppose we wished to conduct a survey in which we ask a sample of a population whether or not they possess sensitive characteristic "A". This can be anything,
-for example, "Have you used any illicit drugs in the past year?"
+Suppose we wished to conduct a survey in which we ask a sample of a population whether or not they possess sensitive characteristic "A". This can be anything, for example, "Have you used any illicit drugs in the past year?"
 
 For obvious reasons a question such as this might lead to problems arising from the issue of privacy. We, the surveyors, know that we will keep the responses anonymous, but how can a surveyee be sure of this? They have no way to know that whatever response they give will not be stored in some form or fashion. Thus, we can use randomized response techniques in order to ENSURE the privacy of the surveyee's response.
 
