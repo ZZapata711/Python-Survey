@@ -1,4 +1,4 @@
-This program executes a randomized response survey based on the Imporved Warner's Randomized Response technique which was discussed in my thesis.
+This program executes a randomized response survey based on the Imporved Warner's Randomized Response technique which was developed by myself and Dr.Singh, and presented in my thesis.
 
 Suppose we wished to conduct a survey in which we ask a sample of a population whether or not they possess sensitive characteristic "A". This can be anything, for example, "Have you used any illicit drugs in the past year?"
 
